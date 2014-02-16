@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-02-16 18:33+0800\n"
+"POT-Creation-Date: 2014-02-16 18:45+0800\n"
 "PO-Revision-Date: 2014-02-16 17:55+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -22,17 +22,42 @@ msgid "Welcome to My Homepage."
 msgstr "欢迎来到我的主页"
 
 #: gae/templates/index.html:26
+msgid "StuCampus in SZU"
+msgstr "深圳大学学子天地"
+
+#: gae/templates/index.html:26
 msgid "StuCampus"
 msgstr "学子天地"
+
+#: gae/templates/index.html:27
+msgid "My projects on github."
+msgstr "我在 Github 上的项目"
+
+#: gae/templates/index.html:28
+msgid "My projects on bitbucket."
+msgstr "我在 BitBucket 上的项目"
+
+#: gae/templates/index.html:31
+msgid "My Blog"
+msgstr "我的博客"
 
 #: gae/templates/index.html:31
 msgid "blog"
 msgstr "博客"
 
 #: gae/templates/index.html:32
+msgid "My page on douban"
+msgstr "我在 豆瓣 上的个人主页"
+
+#: gae/templates/index.html:32
 msgid "douban"
 msgstr "豆瓣"
 
 #: gae/templates/index.html:33
+msgid "My page on zhihu"
+msgstr "我在 知乎 上的个人主页"
+
+#: gae/templates/index.html:33
 msgid "zhihu"
 msgstr "知乎"
+
