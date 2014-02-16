@@ -1,0 +1,114 @@
+.main{
+    background: url(../images/wrapper.png) no-repeat;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 40px;
+    height: 800px;
+    width: 800px;
+    overflow: hidden;
+}
+
+.lang-font{
+    font-size: 9px;
+    color: #ffffff;
+    display: block;
+    float: right;
+    opacity: 0.6;
+    text-align: center;
+}
+
+.lang-btn{
+    width: 30px;
+}
+
+.lang-btn:hover{
+    opacity: 0.8;
+}
+
+.lang-sperator{
+    width: 10px;
+}
+
+#title{
+    text-indent: -9999em;
+    background: url(../images/logo.png);
+    opacity: 0.85;
+    height: 100px;
+    margin-bottom: 20px;
+    width: 400px;
+}
+#title:hover{
+    opacity: 1;
+}
+
+#QRcode{
+    background: url(../images/shonenada-qrcode.png);
+    height: 400px;
+    width: 400px;
+    opacity: 0.8;
+}
+#QRcode:hover{
+    opacity: 0.95;
+}
+
+#box{
+    margin: 20px 0 20px;
+    width: 100%;
+    text-align: center;
+    height: 48px;
+}
+#box span{
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    height: 48px;
+    width: 26px;
+    line-height: 48px;
+}
+#box #left{
+    background: url(../images/box_left.png);
+}
+#box #middle{
+    color: #aaa;
+    font-weight: 300;
+    text-shadow: 2px 2px #000000;
+    width: 260px;
+    background: url(../images/box_middle.png);
+}
+#box #right{
+    background: url(../images/box_right.png);
+}
+
+.item{
+    text-indent: -9999em;
+    display: inline-block;
+    width: 230px;
+    height: 80px;
+    background: url(../images/icons.png);
+    opacity: 0.75;
+}
+.item:hover{
+    opacity: 1;
+}
+
+#szu{
+    background-position: 0 -400px;
+}
+#bitbucket{
+    background-position: 0 0;
+}
+#github{
+    background-position: 0 -80px;    
+}
+#douban{
+    background-position: 0 -160px;    
+}
+#blog{
+    background-position: 0 -240px;    
+}
+#zhihu{
+    background-position: 0 -320px;    
+}
+#stu{
+    background-position: 0 -480px;    
+}

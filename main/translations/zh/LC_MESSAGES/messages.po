@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-02-16 18:20+0800\n"
+"POT-Creation-Date: 2014-02-16 18:33+0800\n"
 "PO-Revision-Date: 2014-02-16 17:55+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh <LL@li.org>\n"
@@ -17,7 +17,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
 
-#: templates/index.html:1
-msgid "Hello"
-msgstr "你好"
+#: gae/templates/index.html:23
+msgid "Welcome to My Homepage."
+msgstr "欢迎来到我的主页"
 
+#: gae/templates/index.html:26
+msgid "StuCampus"
+msgstr "学子天地"
+
+#: gae/templates/index.html:31
+msgid "blog"
+msgstr "博客"
+
+#: gae/templates/index.html:32
+msgid "douban"
+msgstr "豆瓣"
+
+#: gae/templates/index.html:33
+msgid "zhihu"
+msgstr "知乎"
