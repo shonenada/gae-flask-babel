@@ -41,3 +41,6 @@ venv/
 
 # Mac File
 .DS_Store
+
+# Library Folder
+_libs/
